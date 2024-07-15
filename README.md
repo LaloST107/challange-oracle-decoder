@@ -1,4 +1,4 @@
-# 💰 challange-oracle-decoder 💰
+# 💰 challange-oracle: Conversor de Monedas  💰
 
 
 Código de la aplicación de un Conversor de Monedas como parte del Challenge-based learning de AluraLatam y Oracle ONE. 
