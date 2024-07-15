@@ -13,6 +13,7 @@ El menú se presenta de manera sencilla para facilitar su uso, incluso para algu
 ![imagen](https://github.com/user-attachments/assets/93eac426-6c58-4d53-a109-5650c0ca0142)
 
 
-# NOTA: Solo se pueden utilizar las monedas disponibles en: https://www.exchangerate-api.com/docs/supported-currencies
+# NOTA: 
+Solo se pueden utilizar las monedas disponibles en: https://www.exchangerate-api.com/docs/supported-currencies
 # Tecnologías utilizadas ✔️:
 - Java - GSON de Google 
