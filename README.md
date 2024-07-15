@@ -11,3 +11,8 @@ El proyecto también utiliza la librería Gson (https://mvnrepository.com/artifa
 El menú se presenta de manera sencilla para facilitar su uso, incluso para alguien que no esté familiarizado con el código y los métodos empleados:
 
 ![imagen](https://github.com/user-attachments/assets/93eac426-6c58-4d53-a109-5650c0ca0142)
+
+
+#NOTA:# Solo se pueden utilizar las monedas disponibles en: https://www.exchangerate-api.com/docs/supported-currencies
+#Tecnologías utilizadas ✔️:
+- Java - GSON de Google 
