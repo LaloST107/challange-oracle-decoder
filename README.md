@@ -1,3 +1,5 @@
+![Badge-Conversor](https://github.com/user-attachments/assets/e5267bb2-83e0-4a80-988e-273f6c7a91f3)
+
 # 💰 challange-oracle: Conversor de Monedas  💰
 
 
